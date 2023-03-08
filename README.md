@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Fatih Bildirici</h1>
+<h3 align="center">Software Specialist in HAVELSAN</h3>
+
+- 🔭 I’m currently working on **Computational Social Sciences**
+
+- 🌱 I’m currently learning **Python for Academic Data Analysis, DevOps, Docker, Kubernetes**
+
+- 👨‍💻 All of my projects are available at [https://fbildirici.github.io/](https://fbildirici.github.io/)
+
+- 📝 I regularly write articles on [https://medium.com/@fatihbildirici.dev](https://medium.com/@fatihbildirici.dev)
+
+- 📫 How to reach me **fatihbildirici.dev@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/fatih-bildirici/](https://www.linkedin.com/in/fatih-bildirici/)
+
 # Agile Software Development Games
 
 This repository contains two games designed for use in agile software development processes:
