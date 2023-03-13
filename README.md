@@ -19,6 +19,8 @@ This repository contains two games designed for use in agile software developmen
 
 - **Sprint Retrospective Game**: A game designed to help teams evaluate their sprints and plan for future sprints using game theory.
 - **Sprint Planning Game**: A game designed to help teams plan and implement more successful sprints using game theory.
+- **Shapley Value Game**: In this game, the team members would work together to complete a series of tasks, with the goal of maximizing the total value of completed work.
+
 
 ## Installation
 
